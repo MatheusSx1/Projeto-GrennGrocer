@@ -22,6 +22,7 @@ class AuthController extends GetxController {
 
     validateToken();
   }
+// add
 
   Future<void> validateToken() async {
     // Recuperar o token que foi salvo localmente
