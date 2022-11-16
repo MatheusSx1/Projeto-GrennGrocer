@@ -23,7 +23,7 @@ class AuthRepository {
     } else {
       return AuthResult.error(authErrors.authErrorsString(result['error']));
     }
-  
+   
   }
 
   Future<AuthResult> signIn(

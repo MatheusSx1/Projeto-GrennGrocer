@@ -11,7 +11,7 @@ class AppNameWidget extends StatelessWidget {
     this.greenTitleColor,
     this.textSize = 30,
   }) : super(key: key);
-
+ 
   @override
   Widget build(BuildContext context) {
     return Text.rich(

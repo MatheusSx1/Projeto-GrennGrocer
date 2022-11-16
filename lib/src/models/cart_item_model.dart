@@ -11,5 +11,5 @@ class CartItemModel {
 
   double totalPrice() => item.price * quantity;
    
-  
+   
 }

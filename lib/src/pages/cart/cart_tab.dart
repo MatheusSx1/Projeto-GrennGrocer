@@ -113,12 +113,12 @@ class _CartTabState extends State<CartTab> {
                           isError: true,
                         );
                       }
-                    },
+                    }, 
                     child: const Text(
                       'Concluir pedido',
                       style: TextStyle(
                         fontSize: 18,
-                      ),
+                      ), 
                     ),
                   ),
                 ),

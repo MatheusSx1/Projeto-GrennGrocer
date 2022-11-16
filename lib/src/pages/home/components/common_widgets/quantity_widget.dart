@@ -42,7 +42,7 @@ class QuantityWidget extends StatelessWidget {
               int resultCount = value - 1;
               result(resultCount);
             },
-          ),
+          ), 
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 6),
             child: Text(

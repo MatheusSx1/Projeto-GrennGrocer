@@ -154,7 +154,7 @@ class _profileTabState extends State<profileTab> {
                   },
                   icon: const Icon(Icons.close),
                 ),
-              ),
+              ), 
             ],
           ),
         );

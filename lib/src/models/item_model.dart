@@ -5,7 +5,7 @@ class ItemModel {
   double price;
   String description;
   String tamanho;
-
+ 
   ItemModel({
     required this.description,
     required this.imgUrl,

@@ -8,3 +8,4 @@ class AuthResult with _$AuthResult {
   factory AuthResult.success(UserModel user) = Success;
   factory AuthResult.error(String message) = Error;
 }
+ 

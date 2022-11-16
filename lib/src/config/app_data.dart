@@ -118,7 +118,7 @@ UserModel user = UserModel(
     items: [
       CartItemModel(
         item: calca,
-        quantity: 2,
+        quantity: 2, 
       ),
       CartItemModel(
         item: blusa,

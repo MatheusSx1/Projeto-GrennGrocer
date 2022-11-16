@@ -122,7 +122,7 @@ class _ItemTileState extends State<ItemTile> {
               child: InkWell(
                 onTap: () {
                   switchIcon();
-
+ 
                   widget.cartAnimationMethod(imageGK);
                 },
                 child: Ink(

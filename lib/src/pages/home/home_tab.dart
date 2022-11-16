@@ -44,7 +44,7 @@ class _HomeTabState extends State<HomeTab> {
             padding: const EdgeInsets.only(
               top: 15,
               right: 15,
-            ),
+            ), 
             child: GestureDetector(
               onTap: () {
                 

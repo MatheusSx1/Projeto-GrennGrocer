@@ -11,7 +11,7 @@ class UtilsServices {
   Future<void> saveLocalData({required String key, required data}) async {
     await storage.write(key: key, value: data);
   }
-
+ 
   // Recupera dado salvo localmente em segurança
   Future<String?> getLocalData({required String key}) async {
     return await storage.read(key: key);

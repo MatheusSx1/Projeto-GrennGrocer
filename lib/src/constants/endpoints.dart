@@ -7,4 +7,5 @@ abstract class Endpoints{
   static const String validateToken = '$baseUrl/validate-token';
 
 
+
 }

@@ -6,7 +6,7 @@ import 'package:lojinha/src/pages/home/components/common_widgets/app_name_widget
 class SplashScreen extends StatelessWidget {
   const SplashScreen({Key? key}) : super(key: key);
 
-  
+   
 
   @override
   Widget build(BuildContext context) {

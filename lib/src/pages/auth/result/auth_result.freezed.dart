@@ -8,7 +8,7 @@ part of 'auth_result.dart';
 // **************************************************************************
 // FreezedGenerator
 // **************************************************************************
-
+ 
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(

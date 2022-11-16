@@ -120,7 +120,7 @@ class OrderTile extends StatelessWidget {
                       );
                     },
                   );
-                },
+                }, 
                 icon: Image.asset(
                   'assets/app_images/pix.png',
                   height: 18,

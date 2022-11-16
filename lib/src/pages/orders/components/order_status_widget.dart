@@ -133,7 +133,7 @@ class _StatusDot extends StatelessWidget {
         ),
 
         const SizedBox(width: 5),
-
+ 
         // Texto
         Expanded(
           child: Text(

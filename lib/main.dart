@@ -5,7 +5,7 @@ import 'package:lojinha/src/pages_routes/app_pages.dart';
 
 void main() {
 
-  WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized(); 
   
   Get.put(AuthController());
 
