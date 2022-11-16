@@ -10,7 +10,7 @@ class OrdersTab extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Pedidos'),
-      ), 
+      ),  
       body: ListView.separated(
         padding:  const EdgeInsets.all(16),
         physics: const BouncingScrollPhysics(),        

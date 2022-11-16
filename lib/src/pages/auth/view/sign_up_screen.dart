@@ -14,7 +14,7 @@ class SignUpScreen extends StatelessWidget {
   final phoneFormatter = MaskTextInputFormatter(
       mask: '## # ####-####', 
       filter: {'#': RegExp(r'[0-9]')});
- 
+  
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;

@@ -7,7 +7,7 @@ import 'package:lojinha/src/pages/splash/splash_screen.dart';
 abstract class AppPages{
 
   static final pages = <GetPage>[
-
+ 
     GetPage(
       page: () => const SplashScreen(),
       name: PagesRoutes.splashRoute,

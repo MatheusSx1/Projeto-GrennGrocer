@@ -68,7 +68,7 @@ class _CartTileState extends State<CartTile> {
           },
           isRemovable: true,
         ),
-      ),
+      ), 
     ); 
   }
 }

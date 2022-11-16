@@ -12,9 +12,9 @@
     50: const Color.fromRGBO(139, 195, 74, .9),
     50: const Color.fromRGBO(139, 195, 74, 1),
   };
-  
-  
-  
+   
+   
+   
   
   abstract class CustomColors{
 

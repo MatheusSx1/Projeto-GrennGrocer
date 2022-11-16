@@ -10,7 +10,7 @@ class baseScreen extends StatefulWidget {
   @override
   State<baseScreen> createState() => _baseScreenState();
 }
- 
+  
 class _baseScreenState extends State<baseScreen> {
   int currentIndex = 0;
   final pageController = PageController();

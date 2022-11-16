@@ -118,7 +118,7 @@ class _CartTabState extends State<CartTab> {
                       'Concluir pedido',
                       style: TextStyle(
                         fontSize: 18,
-                      ), 
+                      ),  
                     ),
                   ),
                 ),

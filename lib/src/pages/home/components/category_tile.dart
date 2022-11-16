@@ -23,7 +23,7 @@ class CategoryTile extends StatelessWidget {
         child: Container(
           padding: const EdgeInsets.symmetric(
             horizontal: 6,
-             
+              
           ),
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(10),

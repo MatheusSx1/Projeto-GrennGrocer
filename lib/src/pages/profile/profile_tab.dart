@@ -87,7 +87,7 @@ class _profileTabState extends State<profileTab> {
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(20),
           ),
-          child: Stack(
+          child: Stack( 
             children: [
               Padding(
                 padding: const EdgeInsets.all(16),

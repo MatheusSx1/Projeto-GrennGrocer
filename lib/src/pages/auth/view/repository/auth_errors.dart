@@ -11,7 +11,7 @@ String authErrorsString(String? code) {
 
     default:
       return 'Um erro indefinido ocorreu';
-  }
+  } 
  
 
 }

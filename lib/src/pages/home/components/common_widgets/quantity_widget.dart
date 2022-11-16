@@ -50,7 +50,7 @@ class QuantityWidget extends StatelessWidget {
               style: const TextStyle(
                 fontSize: 15,
                 fontWeight: FontWeight.bold,
-              ),
+              ), 
             ),
           ),
           _QuantityButton(

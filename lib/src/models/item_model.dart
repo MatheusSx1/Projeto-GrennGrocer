@@ -13,5 +13,5 @@ class ItemModel {
     required this.price,
     required this.unit,
     required this.tamanho,
-  });
+  }); 
 }

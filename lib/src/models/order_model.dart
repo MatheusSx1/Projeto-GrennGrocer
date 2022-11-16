@@ -8,7 +8,7 @@ class OrderModel {
   String status;
   String copyAndPaste;
   double total;
- 
+  
   OrderModel({
     required this.copyAndPaste,
     required this.createdDateTime,

@@ -24,7 +24,7 @@ class AuthRepository {
       return AuthResult.error(authErrors.authErrorsString(result['error']));
     }
    
-  }
+  } 
 
   Future<AuthResult> signIn(
       {required String email, required String password}) async {

@@ -5,7 +5,7 @@ class AppNameWidget extends StatelessWidget {
 
   final Color? greenTitleColor;
   final double textSize;
-
+ 
   const AppNameWidget({
     Key? key,
     this.greenTitleColor,

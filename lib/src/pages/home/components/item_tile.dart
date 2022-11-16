@@ -124,7 +124,7 @@ class _ItemTileState extends State<ItemTile> {
                   switchIcon();
  
                   widget.cartAnimationMethod(imageGK);
-                },
+                }, 
                 child: Ink(
                   height: 40,
                   width: 35,
